@@ -5,6 +5,7 @@
 
 Estudante de Engenharia de Software no Inteli, sempre em busca de novos desafios. Comecei a programar por pura curiosidade e hoje me vejo apaixonada por criar soluções inovadoras. Acredito que a programação é uma jornada contínua de aprendizado e crescimento.
 
+---
 
 ### Habilidades
 <div style="display: inline_block"><br>
