@@ -32,4 +32,4 @@ Estudante de Engenharia de Software no Inteli, sempre em busca de novos desafios
 ### ⚙️ GitHub Analytics ⚙️
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nicriedla&show_icons=true&theme=dracula" alt="nicriedla" /> </p>
 
-<p align="left"> <img      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicriedla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="nicriedla" /> </p>
+<p align="left"> <img      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicriedla&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="nicriedla" /> </p>
