@@ -7,6 +7,10 @@ Estudante de Engenharia de Software no Inteli, sempre em busca de novos desafios
 
 ---
 
+### 🌷 Minha buddy 🌷
+
+---
+
 ### 🚀 Minhas Skills 🚀
 
 <div style="display: inline_block"><br>
