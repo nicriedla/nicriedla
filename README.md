@@ -29,6 +29,8 @@ Estudante de Engenharia de Software no Inteli, sempre em busca de novos desafios
   
 </div>
 
+---
+
 ### ⚙️ GitHub Analytics ⚙️
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nicriedla&show_icons=true&theme=dracula" alt="nicriedla" /> </p>
 
