@@ -6,9 +6,9 @@
 Estudante de Engenharia de Software no Inteli, sempre em busca de novos desafios. Comecei a programar por pura curiosidade e hoje me vejo apaixonada por criar soluções inovadoras. Acredito que a programação é uma jornada contínua de aprendizado e crescimento.
 
 ---
-<p align="center">
- Habilidades
-</p>
+
+### Habilidades
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Nic-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nic-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
