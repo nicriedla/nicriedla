@@ -31,4 +31,4 @@ Estudante de Engenharia de Software no Inteli, sempre em busca de novos desafios
 
 ### ⚙️ GitHub Analytics ⚙️
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nicriedla&show_icons=true&theme=dracula" alt="nicriedla" /> </p>
-[![nicriedla](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+![nicriedla](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
