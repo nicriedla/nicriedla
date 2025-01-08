@@ -1,4 +1,7 @@
-##  Olá, sou a Nicole! 
+<p align="center">
+  <img src="https://github.com/nicriedla/nicriedla/raw/main/Nicole_20250108_171624_0000.png">
+</p>
+
 
 Sou estudante de Engenharia de Software no Inteli.
 
