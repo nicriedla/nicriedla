@@ -3,7 +3,7 @@
 </p>
 
 
-Estudante de Engenharia de Software no Inteli, sempre em busca de novos desafios. Comecei a programar por pura curiosidade e hoje me vejo apaixonada por criar soluções inovadoras. Acredito que a programação é uma jornada contínua de aprendizado e crescimento.
+Estudante de Engenharia de Software no Inteli. Comecei a programar por pura curiosidade e hoje me vejo apaixonada por criar soluções inovadoras e em buscar novos desafios. Acredito que a programação é uma jornada contínua de aprendizado e crescimento.
 
 ---
 
