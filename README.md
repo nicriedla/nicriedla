@@ -19,7 +19,7 @@ Estudante de Engenharia de Software no Inteli, sempre em busca de novos desafios
  <img align="center" alt="Nic-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />               
   <img align="center" alt="Nic-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"/>    
 </div>
-
+          
 ---
 
 ### 📎 Contato 📎
