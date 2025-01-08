@@ -16,7 +16,7 @@ Estudante de Engenharia de Software no Inteli, sempre em busca de novos desafios
   <img align="center" alt="Nic-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nic-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img align="center" alt="Nic-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> 
- <img align="center" alt="Nic-MySql" height="30" width="40" src="https://www.flaticon.com/br/icone-gratis/mysql_5968313?term=mysql&page=1&position=3&origin=search&related_id=5968313" />               
+ <img align="center" alt="Nic-MySql" height="30" width="40" src="https://www.svgrepo.com/svg/303251/mysql-logo" />               
   <img align="center" alt="Nic-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"/>    
 </div>
           
