@@ -28,6 +28,6 @@ Estudante de Engenharia de Software no Inteli, sempre em busca de novos desafios
   <a href="https://www.linkedin.com/in/nicole-riedla-86670a335" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-<br>
-### ⚙️ GitHub Analytics
+
+###⚙️ GitHub Analytics
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nicriedla&show_icons=true&theme=dracula" alt="nicriedla" /> </p>
