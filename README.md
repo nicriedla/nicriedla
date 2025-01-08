@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/nicriedla/nicriedla/raw/main/assets/Nicole_20250108_171624_0000(1).png">
+  <img src= "https://github.com/nicriedla/nicriedla/blob/main/assets/Nicole_20250108_171624_0000%20(1).png">
 </p>
 
 
-Sou estudante de Engenharia de Software no Inteli.
+Estudante de Engenharia de Software no Inteli, sempre em busca de novos desafios. Comecei a programar por pura curiosidade e hoje me vejo apaixonadoa por criar soluções inovadoras. Acredito que a programação é uma jornada contínua de aprendizado e crescimento.
 
 ### ️ Habilidades
 * **Linguagens:** JavaScript, HTML, SQL
