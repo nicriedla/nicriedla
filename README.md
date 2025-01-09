@@ -12,7 +12,7 @@ Estudante de Engenharia de Software no Inteli. Comecei a programar por pura curi
 
 ---
 
-### 🚀 Minhas Skills 🚀
+### 📌 Minhas Skills 📌
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nic-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
