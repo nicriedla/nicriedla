@@ -10,6 +10,10 @@ Estudante de Engenharia de Software no Inteli. Comecei a programar por pura curi
 
 ### 🍥 Minha buddy 🍥
 
+<p align="justify">
+Minha buddy é a Izabelly Maia, uma mulher cativante e divertida. @isabellymaiia 
+</p>
+
 ---
 
 ### 📌 Minhas Skills 📌
