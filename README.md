@@ -8,7 +8,7 @@ Estudante de Engenharia de Software no Inteli. Comecei a programar por pura curi
 
 ---
 
-### 🌷 Minha buddy 🌷
+### 🍥 Minha buddy 🍥
 
 ---
 
