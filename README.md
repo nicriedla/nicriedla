@@ -11,8 +11,13 @@ Estudante de Engenharia de Software no Inteli. Comecei a programar por pura curi
 ### 🍥 Minha buddy 🍥
 
 <p align="justify">
-Minha buddy é a Izabelly Maia, uma mulher cativante e divertida. @isabellymaiia 
+Minha buddy é a Izabelly Maia, uma mulher cativante e divertida. 
 </p>
+
+<a href="https://github.com/isabellymaiia" >
+  <img height="30" width="100" src= "https://github.com/nicriedla/nicriedla/blob/main/assets/2_20250109_193116_0001.png">
+</a>
+
 
 ---
 
