@@ -2,8 +2,9 @@
   <img src= "https://github.com/nicriedla/nicriedla/blob/main/assets/Nicole_20250108_171624_0000%20(1).png">
 </p>
 
-
+<p align="justify">
 Estudante de Engenharia de Software no Inteli. Comecei a programar por pura curiosidade e hoje me vejo apaixonada por criar soluções inovadoras e em buscar novos desafios. Acredito que a programação é uma jornada contínua de aprendizado e crescimento.
+</p>
 
 ---
 
