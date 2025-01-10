@@ -11,7 +11,7 @@ Estudante de Engenharia de Software no Inteli. Comecei a programar por pura curi
 
 
  • Amo ler livros sobre romance e ficção <br>
- • Ouço música sempre que posso
+ • Ouço música sempre que posso <br>
  • Gosto de praticar esportes 
 
 
