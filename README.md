@@ -20,7 +20,7 @@ Estudante de Engenharia de Software no Inteli. Comecei a programar por pura curi
 ### 🍥 Minha buddy 🍥
 
 <p align="justify">
-Minha buddy é a Isabelly Maia, uma mulher cativante e divertida. Ela está me acompanhando durante minha nova trajetória acadêmica no inteli.
+Minha buddy é a Isabelly Maia, uma mulher cativante e divertida. Ela está me acompanhando na minha nova trajetória acadêmica no inteli.
 </p>
 
 Confira o perfil dela:
