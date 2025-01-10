@@ -23,6 +23,8 @@ Estudante de Engenharia de Software no Inteli. Comecei a programar por pura curi
 Minha buddy é a Isabelly Maia, uma mulher cativante e divertida. Ela está me acompanhando durante minha nova trajetória acadêmica no inteli.
 </p>
 
+Confira o perfil dela:
+
 <a href="https://github.com/isabellymaiia" >
   <img height="30" width="100" src= "https://github.com/nicriedla/nicriedla/blob/main/assets/2_20250109_193116_0001.png">
 </a>
