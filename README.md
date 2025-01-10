@@ -7,7 +7,7 @@ Estudante de Engenharia de Software no Inteli. Comecei a programar por pura curi
 </p>
 
 ---
-### 🎞 Minhas Peculiaridades 🎞
+### 🎞 Meus Hobbys 🎞
 
 
  • Amo ler livros sobre romance e ficção <br>
