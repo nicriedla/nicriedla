@@ -7,13 +7,12 @@ Estudante de Engenharia de Software no Inteli. Comecei a programar por pura curi
 </p>
 
 ---
-### 🎞 Meus Hobbys 🎞
 
+### 🎞 Meus Hobbys 🎞
 
  • Amo ler livros sobre romance e ficção <br>
  • Ouço música sempre que posso <br>
  • Gosto de praticar esportes 
-
 
 ---
 
@@ -28,7 +27,6 @@ Confira o perfil dela:
 <a href="https://github.com/isabellymaiia" >
   <img height="30" width="100" src= "https://github.com/nicriedla/nicriedla/blob/main/assets/2_20250109_193116_0001.png">
 </a>
-
 
 ---
 
@@ -47,19 +45,18 @@ Confira o perfil dela:
 ---
 
 ### 📎 Meus Contacts 📎
+
 <div> 
   <a href="https://instagram.com/nih_neves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:nicole.neves@sou.inteli.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nicole-riedla-86670a335" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/nicole-riedla-86670a335" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ---
 
 ### ⚙️ GitHub Analytics ⚙️
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nicriedla&show_icons=true&theme=dracula" alt="nicriedla" /> </p>
 
 <p align="left"> <img      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicriedla&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="nicriedla" /> </p>
 
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nicriedla&show_icons=true&theme=dracula" alt="nicriedla" /> </p>
 
