@@ -60,3 +60,6 @@ Confira o perfil dela:
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nicriedla&show_icons=true&theme=dracula" alt="nicriedla" /> </p>
 
 <p align="left"> <img      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicriedla&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="nicriedla" /> </p>
+
+![Snake animation](https://github.com/nicriedla/nicriedla/blob/output/github-contribution-grid-snake-dark.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=nicriedla&repo=nicriedla&theme=dark)](https://github.com/nicriedla)
